@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Grip
+# The-Sparks-Foundation-DS/ML Internship Tasks
 Projects for GRIP internship
 
 Task 4 - To Explore Decision Tree Algorithm
